@@ -10,4 +10,4 @@
 
 💠What I love about Data Science is its diversity , discovering different data and thus exploring the domains. Now i have learned so much from the community, it also my duty to give'em back, so I am here.
 
-💠In my repositories, you will find a lot of tuff related to statistics ( with Business cases) ,deep dive into ML algorthims , and much more.
+💠In my repositories, you will find a lot of stuff related to world of Data Science.
